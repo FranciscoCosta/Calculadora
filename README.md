@@ -32,7 +32,7 @@
   <li>Acesse o diretório do projeto:</li>
 </ol>
 
-<pre><code>cd calculadora-react-native
+<pre><code>cd Calculadora
 </code></pre>
 
 <ol start="3">
